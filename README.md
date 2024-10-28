@@ -25,4 +25,4 @@ Garcés Díaz-Munío, Gonçal. *Machine Translation of Open Educational Resource
 LICENCE
 -------
 
-*[Machine Translation of Open Educational Resources: Evaluating Translation Quality and the Transition to Neural Machine Translation](https://github.com/gonsalet/Machine_Translation_of_OER)* © 2020 by [Gonçal Garcés Díaz-Munío](http://www.upv.es/ficha-personal/gogardia) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+*[Machine Translation of Open Educational Resources: Evaluating Translation Quality and the Transition to Neural Machine Translation](https://github.com/gonsalet/Machine_Translation_of_OER)* © 2020 by [Gonçal Garcés Díaz-Munío](http://www.upv.es/ficha-personal/gogardia) is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
