@@ -9,7 +9,7 @@ CITATION
 --------
 [http://hdl.handle.net/10251/149416](http://hdl.handle.net/10251/149416)
 
-Garcés Díaz-Munío, Gonçal. *Machine Translation of Open Educational Resources: Evaluating Translation Quality and the Transition to Neural Machine Translation*. Advisers: Alfons Juan Ciscar and Jorge Civera Saiz. Universitat Politècnica de València, 2020.
+Garcés Díaz-Munío, Gonçal. *Machine Translation of Open Educational Resources: Evaluating Translation Quality and the Transition to Neural Machine Translation*. Advisers: Alfons Juan Ciscar and Jorge Civera Saiz; Adrià Martínez Villaronga (experimental adviser). Universitat Politècnica de València, 2020.
 
 ```
 @mastersthesis{garces2020,
@@ -17,7 +17,7 @@ Garcés Díaz-Munío, Gonçal. *Machine Translation of Open Educational Resource
   title = {{Machine Translation of Open Educational Resources: Evaluating Translation Quality and the Transition to Neural Machine Translation}},
   school = {Universitat Politècnica de València},
   year = 2020,
-  note = {Advisers: Alfons Juan Ciscar and Jorge Civera Saiz},
+  note = {Advisers: Alfons Juan Ciscar and Jorge Civera Saiz; Adrià Martínez Villaronga (experimental adviser)},
   url = {http://hdl.handle.net/10251/149416}
 }
 ```
