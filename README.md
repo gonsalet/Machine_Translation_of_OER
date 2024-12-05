@@ -1,5 +1,5 @@
 # Machine Translation of OER
-Master's Thesis: *Machine Translation of Open Educational Resources: Evaluating Translation Quality and the Transition to Neural Machine Translation*.
+Master's thesis: *Machine Translation of Open Educational Resources: Evaluating Translation Quality and the Transition to Neural Machine Translation*.
 Gonçal Garcés Díaz-Munío. Advisers: Alfons Juan Ciscar and Jorge Civera Saiz; Adrià Martínez Villaronga (experimental adviser). Universitat Politècnica de València, 2020.
 [https://github.com/gonsalet/Machine_Translation_of_OER](https://github.com/gonsalet/Machine_Translation_of_OER)
 
@@ -12,7 +12,7 @@ CITATION
 Garcés Díaz-Munío, Gonçal. *Machine Translation of Open Educational Resources: Evaluating Translation Quality and the Transition to Neural Machine Translation*. Advisers: Alfons Juan Ciscar and Jorge Civera Saiz; Adrià Martínez Villaronga (experimental adviser). Universitat Politècnica de València, 2020.
 
 ```
-@mastersthesis{garces2020,
+@mastersthesis{garcesdiazmunio2020,
   author = {Garcés Díaz-Munío, Gonçal},
   title = {{Machine Translation of Open Educational Resources: Evaluating Translation Quality and the Transition to Neural Machine Translation}},
   school = {Universitat Politècnica de València},
